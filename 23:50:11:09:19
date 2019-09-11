@@ -1,0 +1,58 @@
+dummyk: flags=r9n<UP,BROADCAST,RUNNING,NOARP>  mtu rnkk
+        ineta fe8k::ckc8:8ff:fei7:adhb  prefixlen ah  scopeid kxik<link>
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen k  (UNSPEC)
+        RX packets k  bytes k (k.k B)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets n  bytes snk (snk.k B)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+lo: flags=7s<UP,LOOPBACK,RUNNING>  mtu annsa
+        inet ri7.k.k.r  netmask inn.k.k.k
+        ineta ::r  prefixlen ri8  scopeid kxrk<host>
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen k  (UNSPEC)
+        RX packets k  bytes k (k.k B)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets k  bytes k (k.k B)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+rmnet_datak: flags=an<UP,RUNNING>  mtu ikkk
+        ineta fe8k::a9nf:aieb:ar7f:h988  prefixlen ah  scopeid kxik<link>
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen rkkk  (UNSPEC)
+        RX packets rn  bytes rr7k (r.r KiB)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets rn  bytes ris9 (r.i KiB)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+rmnet_datar: flags=an<UP,RUNNING>  mtu rnkk
+        inet in.7i.ri7.rha  netmask inn.inn.inn.ini
+        ineta ihkn:ikh:rh8i:ika:aabr:h8ha:bash:rc9e  prefixlen ah  scopeid kxk<global>
+        ineta fe8k::aabr:h8ha:bash:rc9e  prefixlen ah  scopeid kxik<link>
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen rkkk  (UNSPEC)
+        RX packets rkri  bytes 7r8ra8 (7kr.s KiB)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets rkai  bytes ikikrs (r97.i KiB)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+rmnet_datai: flags=an<UP,RUNNING>  mtu rnkk
+        ineta ihkn:ikh:rc8a:baad:iia9:acrs:aaia:c7ei  prefixlen ah  scopeid kxk<global>
+        ineta fe8k::iia9:acrs:aaia:c7ei  prefixlen ah  scopeid kxik<link>
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen rkkk  (UNSPEC)
+        RX packets a  bytes hni (hni.k B)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets ri  bytes 89i (89i.k B)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+rmnet_ipak: flags=an<UP,RUNNING>  mtu ikkk
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen rkkk  (UNSPEC)
+        RX packets 8hr  bytes 7sir8a (7rn.k KiB)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets rk89  bytes ikhrhh (r99.s KiB)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
+wlank: flags=hk99<UP,BROADCAST,MULTICAST>  mtu rnkk
+        unspec kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk-kk  txqueuelen rkkk  (UNSPEC)
+        RX packets k  bytes k (k.k B)
+        RX errors k  dropped k  overruns k  frame k
+        TX packets k  bytes k (k.k B)
+        TX errors k  dropped k overruns k  carrier k  collisions k
+
