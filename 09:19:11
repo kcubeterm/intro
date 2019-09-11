@@ -1,0 +1,58 @@
+dummy0: flags=195<UP,BROADCAST,RUNNING,NOARP>  mtu 1500
+        inet6 fe80::f405:b1ff:febf:a0db  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 0  (UNSPEC)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 10  bytes 700 (700.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 0  (UNSPEC)
+        RX packets 224  bytes 17720 (17.3 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 224  bytes 17720 (17.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+rmnet_data0: flags=65<UP,RUNNING>  mtu 2000
+        inet6 fe80::4129:d7b2:53cd:a401  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+        RX packets 15  bytes 1170 (1.1 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 15  bytes 1239 (1.2 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+rmnet_data1: flags=65<UP,RUNNING>  mtu 1500
+        inet 56.127.113.157  netmask 255.255.255.252
+        inet6 2405:204:3296:39be:9ce:6aab:41ef:b2f  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::9ce:6aab:41ef:b2f  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+        RX packets 14764  bytes 12313066 (11.7 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 16579  bytes 2810775 (2.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+rmnet_data2: flags=65<UP,RUNNING>  mtu 1500
+        inet6 2405:204:3a9f:c68e:d6e9:3631:a018:d94e  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::d6e9:3631:a018:d94e  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+        RX packets 6  bytes 452 (452.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 12  bytes 892 (892.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+rmnet_ipa0: flags=65<UP,RUNNING>  mtu 2000
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+        RX packets 10235  bytes 12492108 (11.9 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 16606  bytes 2812906 (2.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
